@@ -21,10 +21,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/verify",
+					"raw": "http://ec2-54-158-63-47.compute-1.amazonaws.com:3000/verify",
 					"protocol": "http",
 					"host": [
-						"localhost"
+						"ec2-54-158-63-47",
+						"compute-1",
+						"amazonaws",
+						"com"
 					],
 					"port": "3000",
 					"path": [
